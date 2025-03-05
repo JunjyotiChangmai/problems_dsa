@@ -1,4 +1,4 @@
-**Q. BFS of graph (GFG).**
+**Q. Problem Name.**
 ```bash
 Paste link here
 ```
