@@ -1,10 +1,9 @@
 **Q. BFS of graph (GFG).**
-**Link:**
 ```bash
-    paste link here
+Paste link here
 ```
 
 **Code:**
 ```bash
- Enter code here
+Enter code here
 ```
