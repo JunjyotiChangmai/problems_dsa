@@ -1,7 +1,6 @@
 **Q. BFS of graph (GFG).**
-**Link:**
 ```bash
-https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph
+https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/0
 ```
 
 **Code:**
